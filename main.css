@@ -1,0 +1,19 @@
+body {
+    background-color: #EEE0CB;
+}
+
+.landing {
+    width: 500px;
+}
+
+nav {
+    background-color: #0F0A0A;
+}
+
+.navbar-nav a {
+    color: #EEE0CB;
+}
+
+.nav-link:hover {
+    color: #E15554;
+}
